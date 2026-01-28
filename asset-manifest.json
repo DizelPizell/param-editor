@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/param-editor/static/css/main.94571532.css",
+    "main.js": "/param-editor/static/js/main.8264bc86.js",
+    "static/js/453.fd2f0c4a.chunk.js": "/param-editor/static/js/453.fd2f0c4a.chunk.js",
+    "index.html": "/param-editor/index.html",
+    "main.94571532.css.map": "/param-editor/static/css/main.94571532.css.map",
+    "main.8264bc86.js.map": "/param-editor/static/js/main.8264bc86.js.map",
+    "453.fd2f0c4a.chunk.js.map": "/param-editor/static/js/453.fd2f0c4a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.94571532.css",
+    "static/js/main.8264bc86.js"
+  ]
+}
