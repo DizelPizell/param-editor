@@ -8,9 +8,9 @@ npm test
 npm start
 
  Страница Github Pages: https://DizelPizell.github.io/param-editor
+```
 
-
- ## Тесты
+## Тесты
  ```
  PASS  src/App.test.tsx
   ParamEditor
